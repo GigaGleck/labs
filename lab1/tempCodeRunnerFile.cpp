@@ -1,0 +1,1 @@
+ line.elements[j] = getNum<int>(0);
